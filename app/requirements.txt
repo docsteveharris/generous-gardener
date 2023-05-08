@@ -12,3 +12,4 @@ opencensus-ext-logging==0.1.1
 opencensus-ext-flask==0.8.1
 adal==1.2.7
 azure-keyvault==4.2.0
+python-dotenv==1.0.0
